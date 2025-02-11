@@ -1,4 +1,4 @@
 # Apna-College
 This is my first Git Repository
 <br>
-Author Nayan
+Author Nayan jyoti sahu
